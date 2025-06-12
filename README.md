@@ -1,9 +1,9 @@
 # Application de Dépistage de la Fragilité Motrice en Maison de Retraite
 
-[cite_start]Cette application Streamlit simule un dépistage de la fragilité motrice chez les personnes de 65 ans et plus à leur arrivée en maison de retraite. Elle est basée sur le "Guide Prévention primaire : Dépistage par les kinésithérapeutes de la fragilité motrice par un score fonctionnel chez les personnes de 65 ans et plus, vivant à domicile" de l'Ordre des Masseurs-Kinésithérapeutes (Juin 2022).
+[cite_start]Cette application Streamlit simule un dépistage de la fragilité motrice chez les personnes de 65 ans et plus à leur arrivée en maison de retraite. Elle est basée sur le "Guide Prévention primaire : Dépistage par les kinésithérapeutes de la fragilité motrice par un score fonctionnel chez les personnes de 65 ans et plus, vivant à domicile" de l'Ordre des Masseurs-Kinésithérapeutes (Juin 2022). 
 
 **⚠️ AVERTISSEMENT IMPORTANT :**
-Cette application est une **démonstration conceptuelle à des fins éducatives uniquement**. Elle **ne remplace pas une évaluation clinique professionnelle** par un médecin, un gériatre ou un kinésithérapeute. Elle ne doit en aucun cas être utilisée pour prendre des décisions médicales ou de prise en charge réelles. Consultez toujours un professionnel de la santé qualifié pour une évaluation complète et des conseils personnalisés.
+Cette application est une **démonstration conceptuelle à des fins éducatives uniquement**. Elle **ne remplace pas une évaluation clinique professionnelle** par un médecin, un gériatre ou un kinésithérapeute. Elle ne doit en aucun cas être utilisée pour prendre des décisions médicales ou de prise en charge réelles. Consultez toujours un professionnel de la santé qualifié pour une évaluation complète et des conseils personnalisés.APPLICATION CREE PAR ADRIEN PRATMARTY
 
 ## Fonctionnalités
 
